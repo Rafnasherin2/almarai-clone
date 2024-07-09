@@ -1,0 +1,153 @@
+*{
+    font-family: "Almarai", sans-serif;
+    overflow-x: hidden;
+   
+}
+
+
+.navbar{
+    top: 0%;
+    right: 0px;
+    flex-direction: row;
+    margin:15px;
+    width: 100%;
+    margin-left: -10px;
+}
+
+.d-flex{
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+
+.btn1{
+    margin-left:1300px;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+h5{
+    text-align:center;
+}
+
+.d-block{
+    margin-top: -50px;
+}
+
+.row{
+    background-color:rgb(28, 28, 134);
+}
+
+.row h1{
+    margin-top: 10px;
+    overflow-y: hidden;
+    margin: 25px;
+}
+
+.row h5{
+    margin-top: 2px;
+    overflow-y: hidden;
+   
+}
+
+.card h5{
+    font-size: 19px;
+}
+
+.card p{
+    margin-top: 15px;
+}
+
+.row2{
+    background-color: rgb(222, 237, 243);
+    width: 100%;
+    height: 560px;
+}
+
+.row2 h1{
+    margin-top: 20px;
+}
+
+.row2 h5{
+    margin-top: 50px;
+    overflow-y: hidden;
+}
+
+.row2 img{
+     margin-top: 50px;
+}
+
+.btn2{
+    margin-top: 30px;
+}
+
+.row3{
+    background-color:  rgb(154, 194, 24);
+    width: 100%;
+    height: 500px;
+    overflow-y: hidden;
+}
+
+.row3 h1{
+    color: rgb(4, 156, 4);
+    font-size:50px ;
+    text-shadow:0px 2px 1px beige;
+    margin-top: 125px;
+    margin-left: 10px;
+}
+
+.row3 p{
+    margin-top: -370px;
+    color: white;
+    text-align:justify;
+    margin-left: 8px;
+}
+
+.row3 i{
+   position: absolute;
+   margin-top: 132px;
+   margin-left: 26px;
+   font-size: 28px;
+}
+
+.row4 h1{
+    margin-top: 30px;
+}
+
+.row4 h5{
+    margin-top: 40px;
+    overflow-y: hidden;
+}
+
+.row5{
+    background-color: rgb(6, 154, 213);
+    width: 100%;
+    height: 500px;
+    margin-left: 0px
+}
+
+.search{
+    background-color:  rgb(154, 194, 24);
+}
+
+.logo{
+    display: flex;
+}
+
+.content{
+    position: absolute;
+    margin-top: 55px;
+    color: white;
+    margin-left: 200px;
+}
+
+.btn3:hover{
+    opacity: 0.9;
+}
+
+.btn2:hover{
+    opacity: 0.9;
+}
+
